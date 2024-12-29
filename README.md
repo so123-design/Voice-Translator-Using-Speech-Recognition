@@ -1,1 +1,2 @@
 # Voice-Translator-Using-Speech-Recognition
+This project implements a Speech-to-Speech Translator, which captures spoken input, transcribes it into text, translates it into a target language, and converts the translated text back into speech. This system demonstrates the integration of speech recognition, language translation, and text-to-speech synthesis, making it a useful tool for real-time communication across languages.
